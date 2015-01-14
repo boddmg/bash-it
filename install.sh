@@ -105,3 +105,4 @@ do
     esac
   done
 done
+$HOME/.bash_profile >> $HOME/.bashrc
